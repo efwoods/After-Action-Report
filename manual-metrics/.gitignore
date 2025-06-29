@@ -1,0 +1,7 @@
+**/report-*
+.env
+**/.json
+**/.jsonl
+**/.csv
+**/.md
+notion

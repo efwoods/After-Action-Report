@@ -1,3 +1,9 @@
+transformers 
+langchain 
+torch 
+accelerate 
 python-dotenv
-tqdm
-numpy==1.26
+langchain-community
+protobuf 
+sentencepiece
+bitsandbytes

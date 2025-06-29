@@ -1,0 +1,4 @@
+- [ ] automate scripts
+- [ ] allow for document chunking
+- [ ] process documents
+- [ ] models need to download to Stargate drive (update hf transformers)
